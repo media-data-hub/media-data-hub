@@ -1,0 +1,29 @@
+{
+  "name": "media-data-hub",
+  "version": "1.0.0",
+  "description": "Manage metadata of media",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint": "eslint pb_migrations"
+  },
+  "keywords": [],
+  "author": "Joshua Avalon",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/media-data-hub/media-data-hub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/media-data-hub/media-data-hub/issues"
+  },
+  "homepage": "https://github.com/media-data-hub/media-data-hub#readme",
+  "devDependencies": {
+    "@types/node": "20.8.9",
+    "eslint": "8.52.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-plugin-prettier": "5.0.1",
+    "globals": "13.23.0",
+    "rimraf": "5.0.5"
+  }
+}
