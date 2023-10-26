@@ -55,3 +55,6 @@ volumes:
 ## Configuration
 
 See [PocketBase](https://pocketbase.io/docs/going-to-production/).
+
+By default, `list` and `view` API are set to `@request.auth.id != ""` which mean you need to use a user in `user` collection.
+Other, API operations need to use a admin user.
