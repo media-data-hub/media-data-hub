@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/media-data-hub/media-data-hub/compare/v1.2.1...v1.3.0) (2023-10-29)
+
+
+### Features
+
+* add banner & logo support to collection ([b5d75df](https://github.com/media-data-hub/media-data-hub/commit/b5d75df8f7a756212c5c0ccd2b6d6079179756bb))
+* add thumbnails support to collection ([c8e6c1e](https://github.com/media-data-hub/media-data-hub/commit/c8e6c1e6133a7c1ca2ba0044746f4a35a3a256d4))
+
 ## [1.2.1](https://github.com/media-data-hub/media-data-hub/compare/v1.2.0...v1.2.1) (2023-10-29)
 
 
