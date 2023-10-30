@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/media-data-hub/media-data-hub/compare/v1.3.0...v1.4.0) (2023-10-30)
+
+
+### Features
+
+* add matchName to person ([5493ec5](https://github.com/media-data-hub/media-data-hub/commit/5493ec5b0ac21e915a18b1f7f02e58110b90355a))
+* add music album ([5538219](https://github.com/media-data-hub/media-data-hub/commit/553821922078be165ded435836a26f37b3eabb73))
+
 ## [1.3.0](https://github.com/media-data-hub/media-data-hub/compare/v1.2.1...v1.3.0) (2023-10-29)
 
 
