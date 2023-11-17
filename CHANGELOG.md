@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/media-data-hub/media-data-hub/compare/v1.4.0...v1.4.1) (2023-11-17)
+
+
+### Bug Fixes
+
+* update pocketbase to v0.19.4 ([fbec132](https://github.com/media-data-hub/media-data-hub/commit/fbec132053adc192718366367f1b7781b0ea16f0))
+
 ## [1.4.0](https://github.com/media-data-hub/media-data-hub/compare/v1.3.0...v1.4.0) (2023-10-30)
 
 
