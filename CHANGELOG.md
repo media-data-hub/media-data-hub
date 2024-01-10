@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.5.0](https://github.com/media-data-hub/media-data-hub/compare/v1.4.1...v1.5.0) (2024-01-10)
+
+
+### Features
+
+* add thumbnails to person ([f6af695](https://github.com/media-data-hub/media-data-hub/commit/f6af695549d58b5b7e09a2a93f1f3f53cbb46539))
+
+
+### Bug Fixes
+
+* update pocketbase to v0.20.5 ([5361127](https://github.com/media-data-hub/media-data-hub/commit/536112716fbaad27ee8fbae6ba47df5d50f9ad35))
+
 ## [1.4.1](https://github.com/media-data-hub/media-data-hub/compare/v1.4.0...v1.4.1) (2023-11-17)
 
 
