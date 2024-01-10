@@ -2,7 +2,7 @@
 
 Media Data Hub is design for you to own the metadata of your media.
 
-Media Data Hub is [PocketBase](https://github.com/pocketbase/pocketbase) v0.19.0 with predefined schemas.
+Media Data Hub is [PocketBase](https://github.com/pocketbase/pocketbase) v0.20.5 with predefined schemas.
 Although PocketBase comes with a web UI, Media Data Hub targets for people who know programming to import data via API.
 
 ## About
