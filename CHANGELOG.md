@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.6.0](https://github.com/media-data-hub/media-data-hub/compare/v1.5.0...v1.6.0) (2024-01-10)
+
+
+### Features
+
+* add banner & logo support to collection ([b5d75df](https://github.com/media-data-hub/media-data-hub/commit/b5d75df8f7a756212c5c0ccd2b6d6079179756bb))
+* add matchName to person ([5493ec5](https://github.com/media-data-hub/media-data-hub/commit/5493ec5b0ac21e915a18b1f7f02e58110b90355a))
+* add music album ([5538219](https://github.com/media-data-hub/media-data-hub/commit/553821922078be165ded435836a26f37b3eabb73))
+* add studio image types ([cc49123](https://github.com/media-data-hub/media-data-hub/commit/cc4912376e69c047cf57dbff54dd3c07d2af5aa0))
+* add thumbnails support to collection ([c8e6c1e](https://github.com/media-data-hub/media-data-hub/commit/c8e6c1e6133a7c1ca2ba0044746f4a35a3a256d4))
+* add thumbnails to person ([f6af695](https://github.com/media-data-hub/media-data-hub/commit/f6af695549d58b5b7e09a2a93f1f3f53cbb46539))
+* add thumbnails to tv and movies ([80c719b](https://github.com/media-data-hub/media-data-hub/commit/80c719bb71cf40c3e40a83c6a1dcf3757ded154d))
+* init commit ([187b1cc](https://github.com/media-data-hub/media-data-hub/commit/187b1ccb7d41a8b497e793df7be315d60aa4afad))
+
+
+### Bug Fixes
+
+* update pocketbase to v0.19.1 ([8e9c44e](https://github.com/media-data-hub/media-data-hub/commit/8e9c44e9b2adface456e89382f3a7ebefb949445))
+* update pocketbase to v0.19.4 ([fbec132](https://github.com/media-data-hub/media-data-hub/commit/fbec132053adc192718366367f1b7781b0ea16f0))
+* update pocketbase to v0.20.5 ([5361127](https://github.com/media-data-hub/media-data-hub/commit/536112716fbaad27ee8fbae6ba47df5d50f9ad35))
+
 ## [1.5.0](https://github.com/media-data-hub/media-data-hub/compare/v1.4.1...v1.5.0) (2024-01-10)
 
 
