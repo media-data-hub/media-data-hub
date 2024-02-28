@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/media-data-hub/media-data-hub/compare/v1.5.0...v1.6.0) (2024-02-28)
+
+
+### Features
+
+* update pocketbase to 0.22.0 ([4111090](https://github.com/media-data-hub/media-data-hub/commit/4111090b2cec3b6ef5c8147246cb425bdde77bd6))
+
+
+### Bug Fixes
+
+* regex of alpha2 in country ([b9e899d](https://github.com/media-data-hub/media-data-hub/commit/b9e899de2cee95cd0f1f396f1c5bfa45f38c8463))
+
 ## [1.5.0](https://github.com/media-data-hub/media-data-hub/compare/v1.4.1...v1.5.0) (2024-01-10)
 
 
