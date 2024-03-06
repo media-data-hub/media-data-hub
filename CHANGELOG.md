@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.2](https://github.com/media-data-hub/media-data-hub/compare/v1.6.1...v1.6.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* update pocketbase to 0.22.3 ([554aa1e](https://github.com/media-data-hub/media-data-hub/commit/554aa1e727782b73585e3ab32e420f3c0bf4c38b))
+
 ## [1.6.1](https://github.com/media-data-hub/media-data-hub/compare/v1.6.0...v1.6.1) (2024-03-05)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "media-data-hub",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Manage metadata of media",
   "type": "module",
   "private": true,
