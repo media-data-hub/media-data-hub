@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.7.0](https://github.com/media-data-hub/media-data-hub/compare/v1.6.2...v1.7.0) (2025-03-30)
+
+
+### Features
+
+* Update to 0.26.6 ([5b72a68](https://github.com/media-data-hub/media-data-hub/commit/5b72a68a05bef2e29ec151488f436466b5d085d2))
+
+
+### Bug Fixes
+
+* Fix linting ([4610124](https://github.com/media-data-hub/media-data-hub/commit/4610124bbeb2a5623c2ee81d1d7bd246547adfa3))
+* update pocketbase to 0.22.12 ([fe95364](https://github.com/media-data-hub/media-data-hub/commit/fe95364f653bd6dc0fd549c2b866d9aeacf9ba99))
+
 ## [1.6.2](https://github.com/media-data-hub/media-data-hub/compare/v1.6.1...v1.6.2) (2024-03-06)
 
 
