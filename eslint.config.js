@@ -11,6 +11,10 @@ export default [
         ...globals.node,
         migrate: false
       }
+    },
+    rules: {
+      ...jsRules.rules,
+      "no-undef": "off"
     }
   }
 ];
