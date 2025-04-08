@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.0](https://github.com/media-data-hub/media-data-hub/compare/v1.7.0...v1.8.0) (2025-04-08)
+
+
+### Features
+
+* Add content rating to music album ([98bf618](https://github.com/media-data-hub/media-data-hub/commit/98bf618081a69be2ec20aa5cc6efffb44ec3efe8))
+* Add index to role ([2222502](https://github.com/media-data-hub/media-data-hub/commit/2222502445ae6029d0345f35a09c7a1904dc4df0))
+
 ## [1.7.0](https://github.com/media-data-hub/media-data-hub/compare/v1.6.2...v1.7.0) (2025-03-30)
 
 
