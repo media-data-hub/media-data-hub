@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/media-data-hub/media-data-hub/compare/v1.8.0...v1.9.0) (2025-07-09)
+
+
+### Features
+
+* Upgrade pocketbase to 0.28.4 ([ecd1a68](https://github.com/media-data-hub/media-data-hub/commit/ecd1a680dd085889cf178a284b595da45e43a629))
+
 ## [1.8.0](https://github.com/media-data-hub/media-data-hub/compare/v1.7.0...v1.8.0) (2025-04-08)
 
 
