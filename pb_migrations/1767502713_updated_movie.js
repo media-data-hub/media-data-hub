@@ -5,7 +5,7 @@ migrate(app => {
   // update collection data
   unmarshal({
     indexes: [
-      "CREATE UNIQUE INDEX `idx_BoXxt4tQlx` ON `movie` (`matchName`)",
+      "CREATE UNIQUE INDEX `idx_BoXxt4tQlx` ON `movie` (`matchName`) WHERE `matchName` != ''",
       "CREATE INDEX `idx_pepaY3Dum4` ON `movie` (`name`)",
       "CREATE INDEX `idx_hZIDUY7SAJ` ON `movie` (`sortName`)"
     ]

@@ -7,7 +7,7 @@ migrate(app => {
     indexes: [
       "CREATE INDEX `idx_ZnPY8QkkDc` ON `tvSeries` (`name`)",
       "CREATE INDEX `idx_tleDlMNCe5` ON `tvSeries` (`sortName`)",
-      "CREATE UNIQUE INDEX `idx_9xFhc7AbUZ` ON `tvSeries` (`matchName`)"
+      "CREATE UNIQUE INDEX `idx_9xFhc7AbUZ` ON `tvSeries` (`matchName`) WHERE `matchName` != ''"
     ]
   }, collection);
 
