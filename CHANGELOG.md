@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.10.0](https://github.com/media-data-hub/media-data-hub/compare/v1.9.0...v1.10.0) (2026-01-04)
+
+
+### Features
+
+* Allow SVG ([e2ced21](https://github.com/media-data-hub/media-data-hub/commit/e2ced2115e2e60bf9dd5a1b0273fff4e1b305a8e))
+* Improve checking and performance ([282ccea](https://github.com/media-data-hub/media-data-hub/commit/282ccea8c2a85c455424613419de43bf44e80377))
+* Update pocketbase to v0.35.0 ([7864e51](https://github.com/media-data-hub/media-data-hub/commit/7864e51a547a8f91b9e0695fa26dd8e9deea289d))
+
 ## [1.9.0](https://github.com/media-data-hub/media-data-hub/compare/v1.8.0...v1.9.0) (2025-07-09)
 
 
