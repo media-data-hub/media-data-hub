@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.1](https://github.com/media-data-hub/media-data-hub/compare/v1.10.0...v1.10.1) (2026-01-04)
+
+
+### Bug Fixes
+
+* Update unique index ([027c00d](https://github.com/media-data-hub/media-data-hub/commit/027c00dad2fe3b7915db505096c5af5db35f3f9c))
+
 ## [1.10.0](https://github.com/media-data-hub/media-data-hub/compare/v1.9.0...v1.10.0) (2026-01-04)
 
 
