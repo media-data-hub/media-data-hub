@@ -7,6 +7,13 @@
 
 * Update version to 0.36.4 ([1b4ee4d](https://github.com/media-data-hub/media-data-hub/commit/1b4ee4dd98819c69e837a935e687d09df4ec75e7))
 
+## [1.11.0](https://github.com/media-data-hub/media-data-hub/compare/v1.10.1...v1.11.0) (2026-02-19)
+
+
+### Features
+
+* Update version to 0.36.4 ([1b4ee4d](https://github.com/media-data-hub/media-data-hub/commit/1b4ee4dd98819c69e837a935e687d09df4ec75e7))
+
 ## [1.10.1](https://github.com/media-data-hub/media-data-hub/compare/v1.10.0...v1.10.1) (2026-01-04)
 
 
