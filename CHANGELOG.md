@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.1](https://github.com/media-data-hub/media-data-hub/compare/v1.11.0...v1.11.1) (2026-03-19)
+
+
+### Bug Fixes
+
+* Update pocketbase to 0.36.7 ([6954c8f](https://github.com/media-data-hub/media-data-hub/commit/6954c8f97f9e2dc5dbf9a9f37081c6838c3bb005))
+
 ## [1.11.0](https://github.com/media-data-hub/media-data-hub/compare/v1.10.1...v1.11.0) (2026-02-19)
 
 
