@@ -1,7 +1,7 @@
 ARG BASE_IMAGE=alpine:latest
 
 FROM $BASE_IMAGE as builder
-ARG PB_VERSION=0.36.4
+ARG PB_VERSION=0.36.7
 ARG TARGETARCH
 
 RUN apk add --no-cache \
